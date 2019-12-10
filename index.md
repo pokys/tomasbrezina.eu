@@ -1,4 +1,3 @@
-## Dashboard
 ### Cloud storage
 - [NextCloud](https://cloud.tomasbrezina.eu)
 
