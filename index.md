@@ -1,8 +1,12 @@
 ## Dashboard
-[![Image](https://cdn6.aptoide.com/imgs/6/9/9/6999fe3fbfce1e9c91b7eae178d3f60d_icon.png?w=256)](https://cloud.tomasbrezina.eu)
-[![Image](https://d1q6f0aelx0por.cloudfront.net/product-logos/75765bad-5683-40e7-b4cb-cdd4f7cc9b9e-docker.png)](https://cld.tomasbrezina.eu)
-[![Image](https://tulula.sfo2.cdn.digitaloceanspaces.com/prod/images/45e6c32ec3a56b363f18e4cf7e2b752128b4ac7c4adb64c484bd48b42a081810.png)](https://monitoring.tomasbrezina.eu)
-## Welcome to GitHub Pages
+### Cloud storage
+- [NextCloud](https://cloud.tomasbrezina.eu)
+### Docker administration
+- [Portainer](https://cld.tomasbrezina.eu)
+### Monitoring
+- [Icinga2](https://monitoring.tomasbrezina.eu)
+
+
 
 ## Welcome to GitHub Pages
 
