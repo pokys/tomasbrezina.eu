@@ -1,11 +1,12 @@
 ### Cloud storage
 - [NextCloud](https://cloud.tomasbrezina.eu)
+### Monitoring
+- [Icinga2](https://monitoring.tomasbrezina.eu)
 
 ### Docker administration
 - [Portainer](https://cld.tomasbrezina.eu)
 
-### Monitoring
-- [Icinga2](https://monitoring.tomasbrezina.eu)
+
 
 
 
